@@ -1,6 +1,7 @@
 # BRidge-IA
 Help Desk Inteligente com IA para gestão de tickets e suporte técnico
-Link do projeto: https://source-bake-62238801.figma.site/bridge/dashboard
+
+- Link do projeto: https://source-bake-62238801.figma.site/bridge/dashboard
 
 O BRidge IA é uma solução de help desk inteligente projetada para otimizar a gestão de suporte técnico através de automação e análise de dados em tempo real.
 
