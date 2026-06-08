@@ -6,7 +6,7 @@ Integrantes:
 - Felipe Henrique - 47509716
 - João V. Vicente - 45968632
 - Daniel Miranda - 45120757
-- Lorruan Valadares - 
+- Lorruan Pereira - 45886466
 
 Help Desk Inteligente com IA para gestão de tickets e suporte técnico
 
