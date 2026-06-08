@@ -1,4 +1,13 @@
 # BRidge-IA
+
+Integrantes:
+Osvaldo Ramalho - 45949271
+Ítalo Guilherme - 46002570
+Felipe Henrique - 47509716
+João V. Vicente - 45968632
+Daniel Miranda - 45120757
+Lorruan Valadares - 
+
 Help Desk Inteligente com IA para gestão de tickets e suporte técnico
 
 - Link do projeto: https://source-bake-62238801.figma.site/bridge/dashboard
